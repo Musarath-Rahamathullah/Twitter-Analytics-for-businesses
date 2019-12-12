@@ -5,7 +5,7 @@ Topic classifiers with sentiment analysis models to get a real-time tool to  lev
 Files:
 ------
 Twitter_Analytics_App : code for Twitter Analytics Application.
-Templates/ my-report.html : Template for Twitter Analytics tool interface.
+Templates/ my-report.html : Template for Twitter Analytics tool interface.(should be stored in Templates folder)
 
 Anly699_TAproject_MusarathR.html : Project Report
 
